@@ -1,0 +1,3 @@
+このリポジトリは主にXcodeとAndroidStudioの学習に使う
+頑張る
+生き残る
